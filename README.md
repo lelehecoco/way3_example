@@ -1,0 +1,1 @@
+# way3_example
